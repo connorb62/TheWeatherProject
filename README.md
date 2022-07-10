@@ -2,8 +2,8 @@
 A Delphi application made for Windows that provides weather and air quality data in real time from the OpenWeatherMap API
 ***
 ### Latest Version 
-Current Version 1.0.0.0 
-- No Changes yet
+Current Version - Update 1 for v1.0.0.0 (v1.0.0.1)  
+- See Release changelog for changes and change information 
 ***
 ### Preview
 ![Screenshot](screenshotnb.png)
