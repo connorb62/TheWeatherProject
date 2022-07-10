@@ -1,4 +1,3 @@
-![Logo](icon.png)
 ## The Weather Project
 A Delphi application made for Windows that provides weather and air quality data in real time from the OpenWeatherMap API
 ***
