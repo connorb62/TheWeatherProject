@@ -2674,6 +2674,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 0
           StyleElements = []
           OnChange = mmoAQIChange
@@ -2689,6 +2690,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 1
           StyleElements = []
         end
@@ -2866,6 +2868,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 0
           StyleElements = []
         end
@@ -2880,6 +2883,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 1
           StyleElements = []
         end
@@ -2894,6 +2898,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 2
           StyleElements = []
         end
@@ -2908,6 +2913,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 3
           StyleElements = []
         end
@@ -2922,6 +2928,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 4
           StyleElements = []
         end
@@ -2936,6 +2943,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 5
           StyleElements = []
         end
@@ -2950,6 +2958,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 6
           StyleElements = []
         end
@@ -2964,6 +2973,7 @@ object frmMain: TfrmMain
           Font.Name = 'Consolas'
           Font.Style = []
           ParentFont = False
+          ReadOnly = True
           TabOrder = 7
           StyleElements = []
         end
