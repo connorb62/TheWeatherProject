@@ -266,7 +266,7 @@ procedure TfrmMain.About1Click(Sender: TObject);
 begin
   // SHOW ABOUT
   MessageDlg('The Weather Project®' + #13 + '© 2022 Connor Bell' + #13 +
-  'Version: 1.0.0.0' + #13 +
+  'Version: 1.0.0.1' + #13 +
   'Weather Source: OpenWeatherMap', mtInformation, [mbClose], 0);
 end;
 
@@ -674,7 +674,7 @@ procedure TfrmMain.tlbtnAboutClick(Sender: TObject);
 begin
   // SHOW ABOUT FORM
   MessageDlg('The Weather Project®' + #13 + '© 2022 Connor Bell' + #13 +
-  'Version: 1.0.0.0' + #13 +
+  'Version: 1.0.0.1' + #13 +
   'Weather Source: OpenWeatherMap', mtInformation, [mbClose], 0);
 end;
 
