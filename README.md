@@ -1,5 +1,5 @@
 ## The Weather Project
-A Delphi application made for Windows that provides weather and air quality data in real time from the OpenWeatherMap API
+A basic Delphi application made for Windows that provides weather and air quality data in real time from the OpenWeatherMap API
 ***
 ### Latest Version 
 Current Version - Update 1 for v1.0.0.0 (v1.0.0.1)  
